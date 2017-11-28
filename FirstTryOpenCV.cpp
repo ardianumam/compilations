@@ -14,7 +14,7 @@ int main()
 	 
 	if (!image.data) // check whether the image is found or not
 	{
-	cout << "Image is not found. Please write the file name and path location correctly." << endl;
+		cout << "Image is not found. Please write the file name and path location correctly." << endl;
 	}
 	 
 	namedWindow("lena", WINDOW_AUTOSIZE);// create window for showing our image
