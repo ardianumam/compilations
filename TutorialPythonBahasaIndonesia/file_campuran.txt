@@ -1,0 +1,5 @@
+No,Nama,Umur,Asal
+1,Andi,18,Yogyakarta
+2,Joko,21,Jakarta
+3,Jonathan,23,Sulawesi
+4,Jonathan,23,Sulawesi
