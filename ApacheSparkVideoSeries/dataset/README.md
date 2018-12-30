@@ -1,0 +1,1 @@
+Download the zipped dataset [here](https://drive.google.com/drive/u/1/folders/1SUd1HpZzI5X7KPn3sfAC9rmt4MQFSm2Y), extract the zip file, then put all the dataset files inside a folder with a name of 'dataset'. Finally, put that dataset folder in the same directory with the Apache Spark code (*.ipynb).
